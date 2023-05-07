@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591851072535",
+    "project_id": "peopletracker-4a0d6",
+    "storage_bucket": "peopletracker-4a0d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591851072535:android:1fc702a037ba82cb228052",
+        "android_client_info": {
+          "package_name": "com.peopletracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591851072535-2p2vgfakcu8aiqec0obvlslpipe3ff74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu1CHZ_MjAqT7NeIw2BYdhUgRUsxykMFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591851072535-2p2vgfakcu8aiqec0obvlslpipe3ff74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
